@@ -1,7 +1,11 @@
 # Heap Build
-This project implements correctly and efficiently two methods for building a heap, namely the bottom-up and the top-down strategies. Also, it implements heapsort.<br/>
+This project implements correctly and efficiently:
+```
+-Two methods for building a heap: "Bottom-Up" and "Top-Down";
+-HeapSort.
+```
 When run, a small demo appears and then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
-Each method receives as input arrays of dimensions between 100 and 10.000 one after the other having an increment of 100 filled with random values.
+Each method receives as input arrays of dimensions between 100 and 10.000 one after the other. The increment is 100 and the arrays are filled with random values.
 
 ## Getting Started
 You can find a .exe version of the project for EASY TESTING. Also, this project's code can be found in the .cpp file.

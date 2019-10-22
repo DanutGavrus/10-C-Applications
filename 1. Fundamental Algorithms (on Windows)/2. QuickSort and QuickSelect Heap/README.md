@@ -18,10 +18,10 @@ Double click on 2. QuickSort and QuickSelect Heap.exe
 ```
 If that does not work, create a new C/C++ project containing the .cpp file and add the .h file as a header, then run it.
 
-### Built With
-* [Visual Studio](https://visualstudio.microsoft.com/) - The C/C++ IDE used
-
 ### Warning !
 ```
 ! You might get a warning because the .exe file was not certificated, but it is a trusted file !
 ```
+
+### Built With
+* [Visual Studio](https://visualstudio.microsoft.com/) - The C/C++ IDE used

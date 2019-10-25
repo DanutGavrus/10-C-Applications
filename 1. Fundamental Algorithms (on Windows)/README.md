@@ -1,11 +1,26 @@
-# Programming Techniques used:
-For these projects the following programming techniques were used: -User Interfaces; -Multithreading; -Database Connection; -Relational Databases; -Composite Design Pattern; -Design by Contract; -Reflection Techniques; -Observer Design Pattern; -Lambda Expressions; -Stream Processing; -Polynomial Operations -Data Serialization; -Queues Evolution in Real Time; -Data Structures; -Layered Architecture;
-
-## User Interfaces
-...
+# Programming Techniques and Data Structures implemented:
+For these projects the following programming techniques and data structures were implemented correctly and efficiently:
+```
+-Heap Bottom-Up;
+-Heap Top Down;
+-QuickSort;
+-QuickSelect;
+-Bubble Sort;
+-Insertion Sort;
+-Binary Insertion Sort;
+-Selection Sort;
+-Order Statistics Tree;
+-Binary Search Tree;
+-Disjoint Sets
+-The Kruskal Algorithm;
+-Merge K Lists;
+-Hash Tables;
+-Depth First Search(DFS);
+-Breadth First Search(BFS).
+```
 
 ## Getting Started
-For each project you can find BOTH .exe and .jar versions of the project for EASY TESTING. Also, each has his own README and code can be found in the attached folders where .java files are.
+For each project you can find .exe version of it for EASY TESTING. Also, each has his own README and code can be found in the .cpp file.
 
 ### Installing
 NO NEED FOR INSTALLATION ! For each project:
@@ -13,21 +28,12 @@ Just open .exe file:
 ```
 Double click on "Application Name".exe
 ```
-If that does not work, open .jar file:
-```
-Double click on "Application Name".jar
-```
-If both do not work, a new project must be created containing the folders file the .java files, then run.
+If that does not work, a new project must be created containing the .cpp file, and add the .h file as a header, then run.
 
-### Prerequisites
-For each project you need to have at least these installed:
+### Warning !
 ```
--java jre: https://www.java.com/en/download/
--java jdk 11.0.3 or higher: https://www.oracle.com/technetwork/java/javase/downloads/index.html
+! You might get a warning because the .exe files were not certificated, but those are trusted files !
 ```
 
 ### Applications Were Built With
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The Java IDE used
-
-### Warning !
-For each project you might get a warning because the .exe files were not certificated, but those are trusted files. For the .jar versions there should be no warning !
+* [Visual Studio](https://visualstudio.microsoft.com/) - The C/C++ IDE used

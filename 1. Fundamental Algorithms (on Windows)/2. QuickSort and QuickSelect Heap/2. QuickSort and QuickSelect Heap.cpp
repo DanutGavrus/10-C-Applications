@@ -1,27 +1,3 @@
-/**
---------------QUICK SORT ANALYSIS---------------
-
----WORST CASE ANALYSIS---
--Quicksort's worst-case running time is O(n^2)-
-The worst case of quickSort is either an increasing or decreasing ordered array. In this case, the pivot chosen by the partition function
-is always either the smallest or the largest element in the subarray. Then, one of the partitions will contain no elements and the other
-partition will contain n-1 elements. So the recursive calls will be on subarrays of sizes 0 and n-1.
-
----BEST CASE ANALYSIS---
--Quicksort`s best-case running time is O(nlog(n))-
-The best case of quickSort occurs when the partitions are as evenly balanced as possible which means that their sizes are equal or differ by
-1 of each other. Each partition has at most n/2 elements and the tree of subproblem sizes looks a lot like the tree of subproblem sizes for
-merge sort, with the partitioning times looking like the merging time, therefore, using big O notation, we get the same result as for merge sort.
-
----AVERAGE CASE ANALYSIS---
--Quicksort`s average-case running time is O(nlog(n))-
-Firstly, the average-case running time cannot be better than the best-case running time. Here we have a happy case because it is the same.
-Running time of partition of N elements is, of course, O(n). Now, call partition and we get 2 subarrays of sizes Nl(n elements left) and
-Nr(n elements right). So, T(N) = N + T(Nl) + T(Nr).
-Nl is equally likely to have each of the values 0, 1, 2, … N-1 and NR is also equally likely to have each of the values 0, 1, 2, … N-1.
-Thus Nl+Nr = N-1, thus T(Nl) = T(Nr) in average. So, NT(N) = (N+1)T(N-1) + 2N. By doing a lot of calculations, we get O(nlogn).
-**/
-
 #include "Profiler.h"
 
 #include <stdio.h>
@@ -124,15 +100,6 @@ void TopDown(int myArray[], int n)
 			}
 			else break;
 		}
-		/*if(demo)
-		{
-			printf("The array in the step %d is: ", i);
-			for(j=0; j<n; j++)
-			{
-				printf("%d ",myArray[j]);
-			}
-			printf("\n");
-		}*/
 	}
 	if (demo)
 	{
@@ -210,13 +177,6 @@ void HeapSort(int myArray[], int n)
 		myArray[0] = myArray[lastPos];
 		myArray[lastPos] = aux;
 		Heapify(myArray, 0, lastPos);
-		/*printf("The array in the step %d is: ", j);
-		j++;
-		for(i=0; i<n; i++)
-		{
-			printf("%d ",myArray[i]);
-		}
-		printf("\n");*/
 		lastPos--;
 	}
 	if (demo)
@@ -366,8 +326,9 @@ int main()
 	profiler.createGroup("AVG quickSort VS heapSort", "quickSortAssComAvg", "heapSortAssComAvg");
 	// We create the file with the graphs
 	profiler.showReport();
-	printf("\nDemo is printed above. Graphs file was generated.\n");
+	//system("pause"); Working only on Windows! Solution for Linux & Windows:
+	printf("\nDemo is printed above. Graphs file was generated.\nPRESS ENTER TO EXIT\n");
 	getchar();
-	system("pause"); // Working only on Windows !
+	getchar();
 	return 0;
 }

@@ -32,7 +32,7 @@ If that does not work, a new project must be created containing the .cpp file, a
 
 ### Warning !
 ```
-! You might get a warning because the .exe files were not certificated, but those are trusted files !
+! You might get a warning because .exe files were not certificated, but those are trusted files !
 ```
 
 ### Applications Were Built With

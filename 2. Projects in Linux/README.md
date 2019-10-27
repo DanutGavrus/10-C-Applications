@@ -15,7 +15,7 @@ These projects were made in Linux and implement the following:
 ```
 
 ## Getting Started
-Unfortunately, these projects are not easy to test anymore, but you can see every required task detailed in the .pdf file and you shoul throw an eye over the .c file containig the code as they are nice written, especially projects 2 and 3. 
+Unfortunately, these projects are not easy to test anymore, but you can see every required task detailed in the .pdf file and you should throw an eye over the .c file containing the code as they are nice written, especially projects 2 and 3. 
 ```
 Every project had a file called "tester.py" which was executed in the Linux terminal: "python tester.py". Those were testing the implementations with a lot of different input values.
 ```

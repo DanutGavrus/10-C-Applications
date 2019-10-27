@@ -5,11 +5,13 @@ These projects were made in Linux and implement the following:
 -Semaphores;
 -Threads Initialization and Termination;
 -Synchronization;
+-Pipes;
+-Map Files;
+-Shared Memory(SHM);
 -Listing directory contents;
 -Identifying and parsing section files;
 -Working with sections;
--Sections filtering;
-
+-Sections filtering.
 ```
 
 ## Getting Started

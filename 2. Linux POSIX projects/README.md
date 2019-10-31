@@ -1,4 +1,4 @@
-# Projects in Linux
+# Linux POSIX Projects
 These projects were made in Linux using POSIX and implement the following:
 ```
 -Listing directory contents;
@@ -20,7 +20,7 @@ These projects were made in Linux using POSIX and implement the following:
 ```
 
 ## Getting Started
-You can find each project's description and requirements in the .pdf file attached to it. Also, you should take a quick look over the code written in the .c file.
+You can find each project's description(Chapter 1) and requirements(Chapter 2) in the .pdf file attached to it. Also, you should take a quick look over the code written in the .c file.
 ```
 In order to test any project you need to:
 1) Download .c and tester.py files in the same directory;

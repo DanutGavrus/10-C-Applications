@@ -28,12 +28,15 @@ In order to test any project you need to:
 3) In order to test it write: "python tester.py" (Chapter 3.1);
 4) If you want more details while testing, open tester.py and change verbose to true before step3.
 ```
-When submitted, our implementation was tested with one more python file. Below I attached photos with the testing results for each(which is a little lower compared to the tester scores I had).
+When submitted, our implementation was tested with one more python file. Below I attached photos showing the testing results for each(which are a little lower compared to the tester scores I had).
 
-## Python Tests Score
+## Python Test Scores
+1. File System Module
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20File%20System%20Module.png)<br/><br/><br/>
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Inter-Process%20Communication.png)<br/><br/><br/>
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20File%20System%20Module.png)
+2. Processes, Threads and Synchronization
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Processes%2C%20Threads%20and%20Synchronization.png)<br/><br/><br/>
+3. Inter Process Communication
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Inter-Process%20Communication.png)
 
 ### Built With
 * [Code::Blocks](http://www.codeblocks.org/) - The C IDE used

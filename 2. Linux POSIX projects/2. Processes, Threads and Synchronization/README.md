@@ -21,6 +21,11 @@ When submitted, this project was tested with a similar python file. Below I atta
 ## Python Tests Passed
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Processes%2C%20Threads%20and%20Synchronization.png)
 
+### Warning !
+```
+! If you can not extract the .rar, open a new terminal and write: sudo apt-get install unrar
+```
+
 ### Built With
 * [Code::Blocks](http://www.codeblocks.org/) - The C IDE used
 * [Lubuntu](https://lubuntu.net/) - The OS used 

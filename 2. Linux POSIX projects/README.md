@@ -41,6 +41,11 @@ When submitted, each project was tested with a similar python file. Below I atta
 3. Inter Process Communication
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Inter-Process%20Communication.png)
 
+### Warning !
+```
+! If you can not extract the .rar, open a new terminal and write: sudo apt-get install unrar
+```
+
 ### Built With
 * [Code::Blocks](http://www.codeblocks.org/) - The C IDE used
 * [Lubuntu](https://lubuntu.net/) - The OS used

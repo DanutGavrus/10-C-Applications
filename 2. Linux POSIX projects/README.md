@@ -28,7 +28,7 @@ In order to test any project you need to:
 3) In order to test it write: "python tester.py" (Chapter 3.1);
 4) If you want more details while testing, open tester.py and change verbose to true before step3.
 ```
-When submitted, our implementation was tested with one more python file. Below I attached photos showing the testing results for each(which are a little lower compared to the tester scores I had).
+When submitted, our implementation was tested with one more python file. Below I attached photos showing the testing results for that tester(which are a little lower compared to the tester I had).
 
 ## Python Test Scores
 1. File System Module

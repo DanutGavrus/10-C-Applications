@@ -20,9 +20,9 @@ These projects were made in Linux using POSIX and implement the following:
 ```
 
 ## Getting Started
-You can find each project's description and requirements in the .pdf file attached to it. Also, you should take a quick look over the code written in the .c file.<br/>
-In order to test any project you need to:
+You can find each project's description and requirements in the .pdf file attached to it. Also, you should take a quick look over the code written in the .c file.
 ```
+In order to test any project you need to:
 1) Download .c and tester.py files in the same directory;
 2) Open a new terminal in that directory and write: "gcc -Wall 'Project Name.c' -o 'Project Name'" (Chapter 2.1);
 3) In order to test it write: "python tester.py" (Chapter 3.1);

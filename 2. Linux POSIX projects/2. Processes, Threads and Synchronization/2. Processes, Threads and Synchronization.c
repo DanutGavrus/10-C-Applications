@@ -6,8 +6,7 @@
 #include <pthread.h>
 #include <sys/ipc.h>
 #include <sys/sem.h>
-
-#include "2_helper.c"
+#include "a2_helper.h"
 
 // Declaring a semaphore
 int sem_id;

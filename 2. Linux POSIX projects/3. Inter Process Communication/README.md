@@ -12,7 +12,7 @@ This project is made in Linux using POSIX and implements the following as descri
 ```
 
 ## Getting Started
-You can find this project's description in Chapter1 and the requirements in Chapter2. Also, you should take a quick look over the code written in the .c file.
+You can find this project's description(Chapter 1) and requirements(Chapter 2) in the .pdf file attached to it. Also, you should take a quick look over the code written in the .c file.
 ```
 In order to test this project you need to:
 1) Download .c and tester.py files in the same directory;
@@ -20,7 +20,7 @@ In order to test this project you need to:
 3) In order to test it write: "python tester.py" (Chapter 3.1);
 4) If you want more details while testing, open tester.py and change verbose to true before step3.
 ```
-When submitted, our implementation was tested with one more python file. Below I attached a photo showing the testing result for that tester(which is a little lower compared to the tester I had: xx/100).
+When submitted, this project was tested with a similar python file. Below I attached a photo showing the result of those tests.
 
 ## Python Tests Passed
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Inter-Process%20Communication.png)

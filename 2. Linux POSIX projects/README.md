@@ -23,12 +23,15 @@ These projects were made in Linux using POSIX and implement the following:
 You can find each project's description(Chapter 1) and requirements(Chapter 2) in the .pdf file attached to it. Also, you should take a quick look over the code written in the .c file.
 ```
 In order to test any project you need to:
-1) Download .c and tester.py files in the same directory;
-2) Open a new terminal in that directory and write: "gcc -Wall 'Project Name.c' -o 'Project Name'" (Chapter 2.1);
-3) In order to test it write: "python tester.py" (Chapter 3.1);
+1) Download .rar file and extract it;
+2) Open a new terminal in that directory and write(Chapter 2.1): 
+   2.1)"gcc -Wall a1.c -o a1";
+   2.2)"gcc -Wall a2.c a2_helper.c -o a2 -lpthread"
+   2.3)"gcc -Wall a3.c -o a3".
+3) In order to test anyone write: "python tester.py" (Chapter 3.1);
 4) If you want more details while testing, open tester.py and change verbose to true before step3.
 ```
-When submitted, our implementation was tested with one more python file. Below I attached photos showing the testing results for that tester(which are a little lower compared to the tester I had).
+When submitted, each project was tested with a similar python file. Below I attached photos for all showing the results of those tests.
 
 ## Python Test Scores
 1. File System Module

@@ -11,7 +11,8 @@
 #include <pthread.h>
 #include <sys/prctl.h>
 #include <signal.h>
-#include <2_helper.h>
+
+#include "a2_helper.h"
 
 #define SEM_NAME "A2_HELPER_SEM_17871"
 #define SERVER_PORT 1988

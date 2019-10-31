@@ -48,4 +48,4 @@ When submitted, each project was tested with a similar python file. Below I atta
 
 ### Built With
 * [Code::Blocks](http://www.codeblocks.org/) - The C IDE used
-* [Lubuntu](https://lubuntu.net/) - The OS used 
+* [Lubuntu](https://lubuntu.net/) - The OS used

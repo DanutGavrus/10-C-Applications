@@ -16,7 +16,7 @@ You can find this project's description(Chapter 1) and requirements(Chapter 2) i
 ```
 In order to test this project you need to:
 1) Download .c and tester.py files in the same directory;
-2) Open a new terminal in that directory and write: "gcc -Wall '3. Inter Process Communication.c' -o '3. Inter Process Communication'" (Chapter 2.1);
+2) Open a new terminal in that directory and write: "gcc -Wall a3.c -o a3" (Chapter 2.1);
 3) In order to test it write: "python tester.py" (Chapter 3.1);
 4) If you want more details while testing, open tester.py and change verbose to true before step3.
 ```

@@ -12,7 +12,7 @@ You can find this project's description(Chapter 1) and requirements(Chapter 2) i
 ```
 In order to test this project you need to:
 1) Download .rar file and extract it;
-2) Open a new terminal in that directory and write: "gcc -Wall a1.c -o a1";
+2) Open a new terminal in that directory and write: "gcc -Wall a1.c -o a1" (Chapter 2.1);
 3) In order to test it write: "python tester.py" (Chapter 3.1);
 4) If you want more details while testing, open tester.py and change verbose to true before step3.
 ```

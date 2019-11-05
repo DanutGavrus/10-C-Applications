@@ -26,6 +26,22 @@ YOU SHOULD GENERATE the graphs file by running the .exe file which does what is 
 OR YOU SHOULD DOWNLOAD .rar archive containig the .html file with the graphs for each project. 
 1. Heap Build
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+2. QuickSort and QuickSelect Heap
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+2. QuickSort and QuickSelect Heap
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+2. QuickSort and QuickSelect Heap
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+2. QuickSort and QuickSelect Heap
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+2. QuickSort and QuickSelect Heap
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+2. QuickSort and QuickSelect Heap
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+2. QuickSort and QuickSelect Heap
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+2. QuickSort and QuickSelect Heap
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 
 ## Getting Started
 For each project you can find .exe version of it for EASY TESTING. Also, each has his own README and code can be found in the .cpp file.

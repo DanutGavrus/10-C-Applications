@@ -4,7 +4,10 @@ This project implements correctly and efficiently:
 -"The "insert" and "search" operations in a hash table";
 -""Open Addressing" and "Quadratic Probing"".
 ```
-When run, a small demo appears and then a table is created. A hashtable with the size of 10.007 is created for each test. For 5 different filling factors the "search" operation is evaluated.
+WHEN RUN, a small demo appears and then a table is created. A hashtable with the size of 10.007 is created for each test. For 5 different filling factors the "search" operation is evaluated.
+
+## Generated Graphs
+No graphs were generated for this project.
 
 ## Getting Started
 You can find a .exe version of the project for EASY TESTING. Also, this project's code can be found in the .cpp file.

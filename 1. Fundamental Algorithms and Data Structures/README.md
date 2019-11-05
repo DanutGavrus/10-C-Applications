@@ -27,7 +27,7 @@ OR YOU SHOULD DOWNLOAD .rar archive containig the .html file with the graphs for
 1. Heap Build
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 2. QuickSort and QuickSelect Heap
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20QuickSort%20and%20QuickSelect%20Heap.png)<br/><br/><br/>
 2. QuickSort and QuickSelect Heap
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 2. QuickSort and QuickSelect Heap

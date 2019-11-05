@@ -5,6 +5,9 @@ This project implements correctly and efficiently:
 ```
 When run, a generous demo appears showing the steps of the BFS algorithm. Visual representation of the graph can be found in the file "Initial Graph For Demo.png".
 
+## Generated Graphs
+No graphs were generated for this project.
+
 ## Getting Started
 You can find a .exe version of the project for EASY TESTING. Also, this project's code can be found in the .cpp file.
 

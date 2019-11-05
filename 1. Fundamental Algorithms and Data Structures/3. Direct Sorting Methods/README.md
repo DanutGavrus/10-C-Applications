@@ -12,7 +12,7 @@ As input, each method receives arrays of dimensions between 100 and 10.000 one a
 ## Generated Graphs
 YOU SHOULD RUN the .exe file in order to generate the graphs by yourself and to see the demo.<br/>
 ALSO, YOU CAN DOWNLOAD the .rar archive containig a .html file with the graphs in order to see them bigger and clearer.
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Direct%20Sorting%20Metods.png)
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Direct%20Sorting%20Methods.png)
 
 ## Getting Started
 You can find a .exe version of the project for EASY TESTING. Also, this project's code can be found in the .cpp file.

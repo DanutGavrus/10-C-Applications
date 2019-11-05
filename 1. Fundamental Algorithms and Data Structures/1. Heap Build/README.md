@@ -4,7 +4,7 @@ This project implements correctly and efficiently:
 -Two methods for building a heap: "Bottom-Up" and "Top-Down";
 -"HeapSort".
 ```
-When run, a small demo appears showing the programming technique and data structure used. Then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
+WHEN RUN, a small demo appears showing the programming technique and data structure used. Then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
 As input, each method receives arrays of dimensions between 100 and 10.000 one after the other. The increment is 100 and the arrays are filled with random values.
 
 ## Generated Graphs

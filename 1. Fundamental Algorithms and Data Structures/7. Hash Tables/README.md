@@ -7,6 +7,7 @@ This project implements correctly and efficiently:
 WHEN RUN, a small demo appears and then a table is created. A hashtable with the size of 10.007 is created for each test. For 5 different filling factors the "search" operation is evaluated.
 
 ## Generated Graphs
+YOU SHOULD RUN the .exe file in order to see the demo.<br/>
 No graphs were generated for this project.
 
 ## Getting Started

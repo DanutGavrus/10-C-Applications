@@ -28,8 +28,8 @@ ALSO, YOU CAN DOWNLOAD, for each project, the .rar archive containig a .html fil
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 2. QuickSort and QuickSelect Heap
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20QuickSort%20and%20QuickSelect%20Heap.png)<br/><br/><br/>
-3. Direct Sorting Metods<br/>
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Direct%20Sorting%20Metods.png)<br/><br/><br/>
+3. Direct Sorting Methods<br/>
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Direct%20Sorting%20Methods.png)<br/><br/><br/>
 4. Dynamic Order Statistics
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/4.%20Dynamic%20Order%20Statistics.png)<br/><br/><br/>
 5. Disjoint Sets

@@ -1,4 +1,4 @@
-# Direct Sorting Metods
+# Direct Sorting Methods
 This project implements correctly and efficiently 3 direct sorting methods(2 versions for one of them):
 ```
 -"Bubble Sort";

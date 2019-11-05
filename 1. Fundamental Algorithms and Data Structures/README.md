@@ -18,11 +18,12 @@ For these projects the following programming techniques and data structures were
 -Depth First Search(DFS);
 -Breadth First Search(BFS).
 ```
-When run, a small demo appears showing the programming technique and data structure used and then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
+WHEN RUN, a small demo appears showing the programming technique and data structure used. Then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
 As input, each project receives arrays of dimensions between 100 and 10.000 one after the other. The increment is 100 and the arrays are filled with random values.
 
 ## Generated Graphs
-YOU SHOULD DOWNLOAD .rar archive containig the .html file with the graphs for each project as there may be more graphs than those seen in this photo. ALSO, YOU CAN GENERATE the graphs file by running the .exe file which does what is described above.
+YOU SHOULD GENERATE the graphs file by running the .exe file which does what is described above as there may be more graphs than those seen in this photo.<br/>
+OR YOU SHOULD DOWNLOAD .rar archive containig the .html file with the graphs for each project. 
 1. Heap Build
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 

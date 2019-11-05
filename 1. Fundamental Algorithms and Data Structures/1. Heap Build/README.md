@@ -10,7 +10,6 @@ As input, each method receives arrays of dimensions between 100 and 10.000 one a
 ## Generated Graphs
 YOU SHOULD GENERATE the graphs file by running the .exe file which does what is described above as there may be more graphs than those seen in this photo.<br/>
 OR YOU SHOULD DOWNLOAD .rar archive containig the .html file with the graphs for this project.
-1. Heap Build
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 
 ## Getting Started

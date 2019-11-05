@@ -18,7 +18,7 @@ For these projects the following programming techniques and data structures were
 -Depth First Search(DFS);
 -Breadth First Search(BFS).
 ```
-WHEN RUN, a small demo appears showing the programming technique and data structure used. Then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
+WHEN RUN, for each project, a small demo appears showing the programming technique and data structure used. Then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
 As input, each project receives arrays of dimensions between 100 and 10.000 one after the other. The increment is 100 and the arrays are filled with random values.
 
 ## Generated Graphs

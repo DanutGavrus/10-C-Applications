@@ -37,3 +37,8 @@ If that does not work, a new project must be created containing the .cpp file, a
 
 ### Applications Were Built With
 * [Visual Studio](https://visualstudio.microsoft.com/) - The C/C++ IDE used 
+
+## Generated Graphs
+YOU SHOULD DOWNLOAD .rar archive containig the .html file with the graphs for each project as there may be more graphs than those seen in this photo. ALSO, YOU CAN GENERATE the graphs file by running the .exe file which shows a little demo and generates the graph file for each project.
+1. Heap Build
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>

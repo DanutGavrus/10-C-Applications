@@ -4,11 +4,11 @@ This project implements correctly and efficiently:
 -Two methods for building a heap: "Bottom-Up" and "Top-Down";
 -"HeapSort".
 ```
-When run, a small demo appears and then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
+When run, a small demo appears showing the programming technique and data structure used and then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
 As input, each method receives arrays of dimensions between 100 and 10.000 one after the other. The increment is 100 and the arrays are filled with random values.
 
 ## Generated Graphs
-YOU SHOULD DOWNLOAD .rar archive containig the .html file as there may be more graphs than those seen in this photo. ALSO, YOU CAN GENERATE the graphs file by running the .exe file which shows a little demo and generates the graph file for each project.
+YOU SHOULD DOWNLOAD .rar archive containig the .html file as there may be more graphs than those seen in this photo. ALSO, YOU CAN GENERATE the graphs file by running the .exe file which does what is described above.
 1. Heap Build
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 

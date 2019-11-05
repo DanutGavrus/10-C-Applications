@@ -1,4 +1,4 @@
-# Programming Techniques and Data Structures implemented:
+# Programming Techniques and Data Structures Implemented:
 For these projects the following programming techniques and data structures were implemented correctly and efficiently:
 ```
 -Heap Bottom-Up;
@@ -18,6 +18,13 @@ For these projects the following programming techniques and data structures were
 -Depth First Search(DFS);
 -Breadth First Search(BFS).
 ```
+When run, a small demo appears showing the programming technique and data structure used and then a .html file is created containing graphs showing the differences between methods by tracking the number of assignments and comparisons each one does.<br/>
+As input, each project receives arrays of dimensions between 100 and 10.000 one after the other. The increment is 100 and the arrays are filled with random values.
+
+## Generated Graphs
+YOU SHOULD DOWNLOAD .rar archive containig the .html file with the graphs for each project as there may be more graphs than those seen in this photo. ALSO, YOU CAN GENERATE the graphs file by running the .exe file which does what is described above.
+1. Heap Build
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 
 ## Getting Started
 For each project you can find .exe version of it for EASY TESTING. Also, each has his own README and code can be found in the .cpp file.
@@ -37,8 +44,3 @@ If that does not work, a new project must be created containing the .cpp file, a
 
 ### Applications Were Built With
 * [Visual Studio](https://visualstudio.microsoft.com/) - The C/C++ IDE used 
-
-## Generated Graphs
-YOU SHOULD DOWNLOAD .rar archive containig the .html file with the graphs for each project as there may be more graphs than those seen in this photo. ALSO, YOU CAN GENERATE the graphs file by running the .exe file which shows a little demo and generates the graph file for each project.
-1. Heap Build
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>

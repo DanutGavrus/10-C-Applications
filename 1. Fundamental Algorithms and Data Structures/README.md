@@ -62,4 +62,4 @@ If that does not work, a new project must be created containing the .cpp file, a
 ```
 
 ### Applications Were Built With
-* [Visual Studio](https://visualstudio.microsoft.com/) - The C/C++ IDE used 
+* [Visual Studio](https://visualstudio.microsoft.com/) - The C/C++ IDE used

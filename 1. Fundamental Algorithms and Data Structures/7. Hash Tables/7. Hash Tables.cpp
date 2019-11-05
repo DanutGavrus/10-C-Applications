@@ -132,7 +132,7 @@ void HashTableDemo()
 ///Create Table With Values
 void HashTableCreateTable()
 {
-	printf("\nGenerating the table with the evaluation of 'serach' operation. You cand read about it in the README. This might take a while...");
+	printf("\nGenerating the table with the evaluation of 'search' operation. You cand read about it in the README. This might take a while...");
 	//Declare our variables
 	int i, j, id, l = 0, m, n, search1[1500], search2[1500];
 	int hashTableSize = 10007;

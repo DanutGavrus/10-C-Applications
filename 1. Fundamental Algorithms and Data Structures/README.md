@@ -37,8 +37,8 @@ ALSO, YOU CAN DOWNLOAD, for each project, the .rar archive containig a .html fil
 6. Merge K Lists
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/6.%20Merge%20K%20Lists.png)<br/><br/><br/>
 7. Hash Tables<br/>
-No graphs were generated for this project, but you should run it and see the demo.
-But here is the table generated based on te evaluation described in the project.
+No graphs were generated for this project, but you should run it and see the demo.<br/>
+Here is the table generated based on te evaluation described in the project.
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/7.%20Generated%20Table.png)<br/><br/><br/>
 8. Depth First Search
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/8.%20Depth%20First%20Search.png)<br/><br/><br/>

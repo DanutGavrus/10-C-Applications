@@ -8,7 +8,9 @@ WHEN RUN, a small demo appears and then a table is created. A hashtable with the
 
 ## Generated Graphs
 YOU SHOULD RUN the .exe file in order to see the demo.<br/>
-No graphs were generated for this project.
+No graphs were generated for this project.<br/>
+But here is the table generated based on te evaluation described above.
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/7.%20Generated%20Table.png)
 
 ## Getting Started
 You can find a .exe version of the project for EASY TESTING. Also, this project's code can be found in the .cpp file.

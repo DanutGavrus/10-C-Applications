@@ -28,7 +28,7 @@ ALSO, YOU CAN DOWNLOAD, for each project, the .rar archive containig a .html fil
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Heap%20Build.png)<br/><br/><br/>
 2. QuickSort and QuickSelect Heap
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20QuickSort%20and%20QuickSelect%20Heap.png)<br/><br/><br/>
-3. Direct Sorting Metods
+3. Direct Sorting Metods<br/>
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Direct%20Sorting%20Metods.png)<br/><br/><br/>
 4. Dynamic Order Statistics
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/4.%20Dynamic%20Order%20Statistics.png)<br/><br/><br/>
@@ -36,11 +36,11 @@ ALSO, YOU CAN DOWNLOAD, for each project, the .rar archive containig a .html fil
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/5.%20Disjoint%20Sets.png)<br/><br/><br/>
 6. Merge K Lists
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/6.%20Merge%20K%20Lists.png)<br/><br/><br/>
-7. Hash Tables
-No graphs were generated for this project, but you should run it and see the demo.
+7. Hash Tables<br/>
+No graphs were generated for this project, but you should run it and see the demo.<br/><br/><br/>
 8. Depth First Search
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/8.%20Depth%20First%20Search.png)<br/><br/><br/>
-9. Breadth First Search
+9. Breadth First Search<br/>
 No graphs were generated for this project, but you should run it and see the demo.
 
 ## Getting Started

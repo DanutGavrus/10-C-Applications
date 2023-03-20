@@ -23,22 +23,22 @@ For these projects the following programming techniques and data structures were
 
 ## Generated Graphs
 ###### Heap Build
-![image](https://user-images.githubusercontent.com/56603839/226357129-06303884-20b5-4756-be92-d49f4f33e30f.png)
+![Heap Build](https://user-images.githubusercontent.com/56603839/226357129-06303884-20b5-4756-be92-d49f4f33e30f.png)
 ###### QuickSort and QuickSelect Heap
-![image](https://user-images.githubusercontent.com/56603839/226357205-333fe7f8-7029-4848-86de-8ca6872dc45f.png)
+![QuickSort and QuickSelect Heap](https://user-images.githubusercontent.com/56603839/226357205-333fe7f8-7029-4848-86de-8ca6872dc45f.png)
 ###### Direct Sorting Methods
-![image](https://user-images.githubusercontent.com/56603839/226357419-67f8aa93-569e-4113-a4ad-4c9c74493027.png)
+![Direct Sorting Methods](https://user-images.githubusercontent.com/56603839/226357419-67f8aa93-569e-4113-a4ad-4c9c74493027.png)
 ###### Dynamic Order Statistics
-![image](https://user-images.githubusercontent.com/56603839/226357498-fecddec6-a90c-450e-b92f-7a3953cda09e.png)
+![Dynamic Order Statistics](https://user-images.githubusercontent.com/56603839/226357498-fecddec6-a90c-450e-b92f-7a3953cda09e.png)
 ###### Disjoint Sets
-![image](https://user-images.githubusercontent.com/56603839/226357557-d5925f0d-1698-4230-8570-cad8c3702bb1.png)
+![Disjoint Sets](https://user-images.githubusercontent.com/56603839/226357557-d5925f0d-1698-4230-8570-cad8c3702bb1.png)
 ###### Merge K Lists
-![image](https://user-images.githubusercontent.com/56603839/226357619-44e577c2-c1c5-471f-91e4-7a8e8b5d5ff7.png)
+![Merge K Lists](https://user-images.githubusercontent.com/56603839/226357619-44e577c2-c1c5-471f-91e4-7a8e8b5d5ff7.png)
 ###### Hash Tables
 No graphs were generated for this project, but you may run it and see the demo.  
 Here is the table generated based on te evaluation described in the project's requirements.
-![image](https://user-images.githubusercontent.com/56603839/226357780-c76190e0-8c1c-4d98-ac26-bf86c05c6b89.png)
+![Generated table](https://user-images.githubusercontent.com/56603839/226357780-c76190e0-8c1c-4d98-ac26-bf86c05c6b89.png)
 ###### Depth First Search
-![image](https://user-images.githubusercontent.com/56603839/226357837-92a60e2f-1cdf-41a6-9e51-5a8eeaed63a6.png)
+![Depth First Search](https://user-images.githubusercontent.com/56603839/226357837-92a60e2f-1cdf-41a6-9e51-5a8eeaed63a6.png)
 ###### Breadth First Search
 No graphs were generated for this project, but you may run it and see the demo.
